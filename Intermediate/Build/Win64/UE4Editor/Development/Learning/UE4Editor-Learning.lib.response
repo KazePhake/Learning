@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Learning.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project\Unreal\Learning\Intermediate\Build\Win64\LearningEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Project\Unreal\Learning\Intermediate\Build\Win64\UE4Editor\Development\Learning\Learning.cpp.obj"
+"D:\Project\Unreal\Learning\Intermediate\Build\Win64\UE4Editor\Development\Learning\LearningGameModeBase.cpp.obj"
+"D:\Project\Unreal\Learning\Intermediate\Build\Win64\UE4Editor\Development\Learning\Learning.init.gen.cpp.obj"
+"D:\Project\Unreal\Learning\Intermediate\Build\Win64\UE4Editor\Development\Learning\LearningGameModeBase.gen.cpp.obj"
+"D:\Project\Unreal\Learning\Intermediate\Build\Win64\UE4Editor\Development\Learning\Default.rc2.res"
+/OUT:"D:\Project\Unreal\Learning\Intermediate\Build\Win64\UE4Editor\Development\Learning\UE4Editor-Learning.lib"
